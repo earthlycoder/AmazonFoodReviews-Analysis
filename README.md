@@ -29,7 +29,7 @@ This dataset consists of reviews of fine foods from amazon. The data span a peri
   
 # Objective
 
-We have given a review and we have to identify whether a review is positive(rating of 4 or 5) or negative(rating of 1 or 2).
+To classify the sentiment of a given review.
 
 # Algorithms 
 
