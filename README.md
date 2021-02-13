@@ -1,4 +1,4 @@
-# AmazonFoodReviews-Analysis
+# Amazon Food Reviews Analysis
 
 In this project we will perform Exploratory data analysis, data preprocessing, Feature engineering, model building  on Amazon food reviews. Used various model like KNN, Naive Bayes, Logistic Regressin, Decision Tree, All types of Clustering, XGBoost etc with many featurization tecnique like bow, tfidf, word2vec, average word2vec, tfidf word2vec etc and also performed hyperparameter tuning for each and every model and plotted various plots for checking model stability, convergence of hyperparameter value, underfitting, overfitting etc.
  <p align="center">
